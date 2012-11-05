@@ -1,0 +1,50 @@
+
+
+h2 {
+	color:gray;
+	font-size:150%;
+}
+
+h3 {
+	color:red;
+}
+
+p {
+	color:red;
+}
+
+.topButton {
+	background-repeat:no-repeat;
+	background-position:center;
+	border:1px;
+	background-color:transparent;
+	box-shadow:none;
+}
+
+
+#homebutton {
+	background-image: url('home.png') !important;
+	float:left;
+	width:60px;
+	height:60px;
+}
+
+#settingsbutton {
+	background-image: url('settings.png') !important;
+	float:right;
+	width:60px;
+	height:60px;
+
+}
+
+label {
+	color:white;
+}
+#page {
+	//background-color:red;
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #000000), color-stop(1, #00A3EF));
+	//text-shadow:1px 4px pink;	
+	text-shadow:none;
+}
+
+
